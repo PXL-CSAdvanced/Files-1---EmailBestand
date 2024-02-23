@@ -7,8 +7,7 @@ worden en wanneer er zich een onverwachte fout kan voordoen.
 
 ![Afbeelding met tekst, schermopname, software, nummer Automatisch
 gegenereerde
-beschrijving](./media/image1.png){width="6.291119860017498in"
-height="2.44913167104112in"}
+beschrijving](./media/image1.png)
 
 -   De opdrachtknop **Inlezen** leest het bestand in een StringBuilder
     en drukt het af in het linker tekstvak *TxtResultaat*. Gebruik
@@ -21,8 +20,7 @@ height="2.44913167104112in"}
 
 ![Afbeelding met tekst, schermopname, software, scherm Automatisch
 gegenereerde
-beschrijving](./media/image2.png){width="5.049956255468066in"
-height="2.8452930883639547in"}
+beschrijving](./media/image2.png)
 
 -   Met de opdrachtknop *Inlezen/Dictionary* wordt het bestand ingelezen
     in een dictionary *Dictionary\<string, string\> dicGeg* en afgedrukt
