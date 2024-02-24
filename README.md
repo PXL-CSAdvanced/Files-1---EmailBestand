@@ -1,7 +1,7 @@
 # EmailBestand
 
 Lees uit het tekstbestand *Email.txt* de namen en de e-mailadressen en
-druk af in TxtResultaat. Zorg voor een correcte lay-out. Voorzie een
+toon deze in TxtResultaat. Zorg voor een correcte lay-out. Voorzie een
 gestructureerde foutafhandeling wanneer het bestand niet gevonden kan
 worden en wanneer er zich een onverwachte fout kan voordoen.
 
