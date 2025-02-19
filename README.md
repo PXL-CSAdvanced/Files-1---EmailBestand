@@ -1,16 +1,14 @@
 # EmailBestand
 
 Lees uit het tekstbestand *Email.txt* de namen en de e-mailadressen en
-toon deze in TxtResultaat. Zorg voor een correcte lay-out. Voorzie een
+toon deze in een TextBox. Zorg voor een correcte lay-out. Voorzie een
 gestructureerde foutafhandeling wanneer het bestand niet gevonden kan
 worden en wanneer er zich een onverwachte fout kan voordoen.
 
-![Afbeelding met tekst, schermopname, software, nummer Automatisch
-gegenereerde
-beschrijving](./media/image1.png)
+![](./media/image1.png)
 
 -   De opdrachtknop **Inlezen** leest het bestand in een StringBuilder
-    en drukt het af in het linker tekstvak *TxtResultaat*. Gebruik
+    en drukt het af in het linker tekstvak *resultTextBox*. Gebruik
     hiervoor de functie *StringBuilder InlezenBestand(string
     bestandsnaam).*
 
@@ -18,13 +16,11 @@ beschrijving](./media/image1.png)
     OpenFileDialog om het juiste bestand te openen om in te lezen met de
     functie *InlezenBestand()*.
 
-![Afbeelding met tekst, schermopname, software, scherm Automatisch
-gegenereerde
-beschrijving](./media/image2.png)
+![](./media/image2.png)
 
 -   Met de opdrachtknop *Inlezen/Dictionary* wordt het bestand ingelezen
     in een dictionary *Dictionary\<string, string\> dicGeg* en afgedrukt
-    in TxtResultaat.
+    in resultTextBox.
 
 -   De opdrachtknop *Wegschrijven / Dictionary* gebruikt de dictionary
     *dic*G*eg* om de e-mailadressen weg te schrijven naar een nieuw
@@ -34,6 +30,4 @@ beschrijving](./media/image2.png)
     toegevoegd worden aan het bestand *Email.txt*. Gebruik hier een
     SaveFileDialog voor.
 
-![Afbeelding met tekst, schermopname, software, scherm Automatisch
-gegenereerde
-beschrijving](./media/image3.png)
+![](./media/image3.png)
